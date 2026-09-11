@@ -1,2 +1,7 @@
-.*
-me50_backup
+.vscode-remote/
+.cache/
+.docker/
+.ssh/
+.bash_history
+.gitconfig
+me50_backup/
