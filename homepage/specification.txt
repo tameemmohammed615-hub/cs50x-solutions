@@ -1,0 +1,8 @@
+Project Title: Personal Portfolio Website
+Description: A responsive, multi-page personal portfolio website built using HTML5, CSS3, JavaScript, and Bootstrap 5.
+Files Included:
+- index.html: Landing page welcoming visitors with a summary of skills and background.
+- about.html: Details academic background and personal developer journey.
+- projects.html: Showcases key software development and engineering projects.
+- contact.html: Provides an interactive form with JavaScript submission handling.
+- styles.css: Custom styling rules ensuring a cohesive layout and hover effects.
